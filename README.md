@@ -51,3 +51,6 @@ python manage.py makemigrations
 ```commandline
 python manage.py createsuperuser
 ```
+
+Link to the learning resource on youtube:
+https://youtu.be/nGIg40xs9e4?si=GN2QdRPSGi_JWop0
