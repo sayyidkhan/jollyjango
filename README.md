@@ -9,3 +9,6 @@ Folder Structure:
 ## How do you create database
 `python manage.py makemigrations`
 `python manage.py migrate`
+
+Youtube Link, where i learnt this information:
+https://www.youtube.com/watch?v=NoLF7Dlu5mc 
